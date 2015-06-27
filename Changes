@@ -1,5 +1,10 @@
 Revision history for Group-Git-Taggers-Maven
 
-0.0.1   Date/time
-        First version, released on an unsuspecting world.
-
+0.0.1   2015-06-28
+        Updated manifest (Ivan Wills)
+        Added stop words (Ivan Wills)
+        Updated tests (Ivan Wills)
+        Added dependencies (Ivan Wills)
+        Implemented Maven check (Ivan Wills)
+        Indicating future plans (Ivan Wills)
+        Initial commit (Ivan Wills)
