@@ -72,3 +72,4 @@ errors.err
 .editorconfig
 .vtide.yml
 ^MYMETA\.json$
+^.*\.lock
