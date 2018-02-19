@@ -17,9 +17,11 @@ terminals:
       - lib
       - bin
       - tests
-  2: []
+  2:
+    restart: 1
+    wait: 1
+    edit: bin
+  3:
     edit: lib
-  3: []
-
-  4: []
-
+  4:
+    edit: tests
