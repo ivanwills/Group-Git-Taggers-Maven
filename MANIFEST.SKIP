@@ -65,6 +65,9 @@ Debian_CPANTS.txt
 # Avoid prove saved state file
 .prove
 
+# Debian package files (not for CPAN)
+debian/
+
 # Other files of interest
 \..*\.tag$
 errors.err
